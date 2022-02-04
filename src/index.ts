@@ -25,3 +25,4 @@ switch (command) {
   default:
     console.log(command);
 }
+
